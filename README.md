@@ -1,9 +1,5 @@
 # Omise Android SDK
 
-[![](https://img.shields.io/maven-central/v/co.omise/omise-android.svg?style=flat-square)](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22co.omise%22%20AND%20a%3A%22omise-android%22)
-[![](https://img.shields.io/badge/email-support-yellow.svg?style=flat-square)](mailto:support@omise.co)
-[![Android CI](https://github.com/omise/omise-android/workflows/Android%20CI/badge.svg)](https://github.com/omise/omise-android/actions)
-
 Omise is a payment service provider currently operating in Thailand. Omise provides a set of clean APIs
 that help merchants of any size accept cards online.
 
@@ -36,9 +32,7 @@ having to go through your server.
 Add the following line to your project's `build.gradle` file inside the `dependencies`
 block:
 
-```gradle
-implementation 'co.omise:omise-android:4.3.1'
-```
+[![](https://jitpack.io/v/minijester/omise.svg)](https://jitpack.io/#minijester/omise)
 
 ## Usage
 
